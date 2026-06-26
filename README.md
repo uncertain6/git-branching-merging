@@ -64,11 +64,3 @@ git branch -D <branch_name>
 Deletes a branch.
 
 ---
-
-## Things I Learned
-
-* Branches let you work on different features without affecting each other.
-* `git switch` changes branches.
-* `git merge` combines one branch into the current branch.
-* The current branch always receives the merge.
-* If a merge goes wrong, `git merge --abort` cancels it.
